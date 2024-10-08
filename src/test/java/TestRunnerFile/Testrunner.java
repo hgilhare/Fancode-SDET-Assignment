@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
 
         glue = {"stepdefinationFile"},
 
-        plugin = "html:target/reports/Report.html"
+        plugin = "html:target/cucumber-reports/Report.html"
 )
 public class Testrunner {
 }
