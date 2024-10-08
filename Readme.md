@@ -64,13 +64,13 @@ Feature: verifying fanCode city user
 Execute tests using Maven:
 
 ```
-mvn test
+mvn clean test
 ```
 
 To run specific tags:
 
 ```
-mvn test -Dcucumber.filter.tags="@smoke"
+mvn clean test -Dcucumber.filter.tags="@smoke"
 ```
 
 ## Reporting
