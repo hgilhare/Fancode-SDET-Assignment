@@ -9,8 +9,6 @@ This project demonstrates API automation testing using Behavior-Driven Developme
 - [Writing Tests](#writing-tests)
 - [Running Tests](#running-tests)
 - [Reporting](#reporting)
-- [Best Practices](#best-practices)
-- [Troubleshooting](#troubleshooting)
 
 ## Prerequisites
 
