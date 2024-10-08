@@ -28,7 +28,7 @@ This project demonstrates API automation testing using Behavior-Driven Developme
 ## Project Structure
 
 ```
-api-automation-cucumber/
+SDET-Assignment/
 ├── src/
 │   ├── main/       
 │   └── test/
